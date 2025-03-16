@@ -1,0 +1,1 @@
+import{_ as s,a,b as e,o as t}from"./index-BZ0PDiVH.js";const c={class:"home"},m={__name:"Home",setup(n){return(l,o)=>(t(),a("div",c,o[0]||(o[0]=[e("h1",null,"Welcome Home",-1),e("div",{class:"content"},[e("p",null,"This is a minimal home page template")],-1)])))}},p=s(m,[["__scopeId","data-v-c75796ba"]]);export{p as default};
